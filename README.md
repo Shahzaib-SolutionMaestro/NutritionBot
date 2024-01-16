@@ -17,7 +17,7 @@ Real-Time Responses: Provides instant responses to user queries, enhancing the u
 Customizable and Extendable: Designed to be easily customizable and extendable, allowing developers to add more features or adapt the project for specific requirements.
 
 How to Use
-Clone the Repository: git clone https://github.com/your-username/nutrition-bot-telegram.git
+Clone the Repository: git clone https://github.com/Shahzaib-SolutionMaestro/NutritionBot
 
 Set up API Keys:
 
